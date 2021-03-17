@@ -1,5 +1,0 @@
-database = "BLUDB"
-hostname = "dashdb-txn-sbox-yp-lon02-07.services.eu-gb.bluemix.net"
-port = "50000"
-uid = "ngq09345"
-pwd = "7+1k7dqhfsktw59w"
